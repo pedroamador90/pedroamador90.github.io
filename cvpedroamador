@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Curriculum vitae</title>
+</head>
+<body>
+	<div>
+		<h1>CV Pedro H&eacute;ctor Amador Mata</h1>
+		<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11046686_10153342871831970_8031631100138883134_n.jpg?oh=5fefde96ac9956c41c0e3f27f0b68b24&oe=5770EDD3" style="width:250px; height:200px"> 
+		
+	</div>
+	<table>
+		<tr>
+			<td>Empresa</td>
+			<td>Puesto</td>
+			<td>Fechas</td>
+		<tr>
+		<tr>
+			<td>Grupo Cuprum</td>
+			<td>Practicante</td>
+			<td>2 de diciembre 2010 - 1 diciembre 2011 </td>
+		<tr>
+		<tr>
+			<td>Grupo Cuprum</td>
+			<td>Analista Programador</td>
+			<td>2 de diciembre 2011 - Actual </td>
+		<tr>	
+
+	</table>		
+
+	<div>
+
+		<ul> Estudios
+			<li>Licenciado en Ciencias Computacionales -Facultad de Ciencias F&iacute;sico Matem&aacute;ticas 2007-2012 </li>
+			
+		</ul>
+
+	</div>
+	<div>
+
+		<ol>Lenguajes de programaci&oacute;n
+			<li>Vb.Net</li>
+			<li>C#</li>
+			<li>Javascript</li>
+
+		</ol>
+
+	</div>
+	<div>
+
+		<ol>Controles 
+			<li>Infragistics 2011 en .Net</li>
+			<li>Ext.net en .Net</li>
+			<li>Kendo en MVC</li>
+			
+		</ol>
+
+	</div>
+
+
+</body>
+</html>
