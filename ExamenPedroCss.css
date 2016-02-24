@@ -1,0 +1,65 @@
+#PanelHeader{
+  background: url(http://cursos.en1mes.com/img/fondo.jpg) no-repeat center fixed; 
+  background-size: cover;
+  text-align: center;
+}
+
+#iFondo{
+  background-color: rgba(0, 0, 0, 0.45); 
+  margin-bottom:0px;
+}
+
+.primertexto{
+ 
+  text-shadow: 2px 2px 1px #222 color:white ; margin-top: 80px;
+ 
+}
+
+.textoazul{
+
+}
+
+.seccionazul{
+  background-color:#7ECAAD;
+}
+.Segundo{
+  margin-bottom:40px;  font-family:sans-serif; font-size:4em; color:white; margin-top: 110px;
+}
+
+.Tercero{
+  margin-bottom:20px;  font-family:sans-serif; font-size:2em; color:white; margin-top: 110px;
+}
+
+.Masconmenos{
+  text-shadow: 2px 2px 1px #222; color:white; margin-top:5em;
+}
+.iDes{
+  height:60px;
+
+}
+.iFoto{
+  height:auto; width: auto;  
+}
+
+.BordesDashed{
+  border-top:dashed #eee; margin:50px 0 50px 0; 
+}
+.TextoEntreDashed{
+  font-family:lato;  text-align:center;
+}
+
+
+.TextoInsert{
+  font-size:1.2em; margin-top:20px;
+}
+#imagenreserva{
+  margin:50px auto;
+}
+.hazul{
+  color: blue;
+}
+
+.espacio{
+  float: left;
+    padding :0 3px; /*para darle margen a los 4 divs*/
+}
